@@ -4,7 +4,7 @@
 Stacks iniciais:
 React,
 SASS,
-Boostrap,
+Bootstrap,
 Vite
 
 Figma:
